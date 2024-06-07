@@ -27,13 +27,13 @@ Logisim (available at http://www.cburch.com/logisim/)
 ## Installation
 - Download Logisim from the official website.
 - Clone the repository
-- Open Logisim and load the project file (computer-2.circ).
+- Open Logisim and load the project file (computer_2.circ).
 
 ## Usage
 To run the simulation:
 
 1. Open Logisim.
-2. Load the computer-2.circ file.
+2. Load the computer_2.circ file.
 3. Use the simulation tools in Logisim to step through the instructions and observe the behavior of the computer architecture.
 
 You can modify the instructions component in Logisim to change the instructions that the simulated computer will execute.
